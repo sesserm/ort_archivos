@@ -1,0 +1,11 @@
+id_tipo_actividad;tipo_actividad;clasificacion      ;fecha_registro
+1; Running       ; Individual ; 2022-01-10 
+2; Cycling       ; Individual ; 2022-01-19 
+3; Swimming      ; Individual ; 2022-01-12
+4; Basketball    ; Group      ; 2022-01-20
+5; Tennis        ; Individual ; 2022-01-15 
+6; Soccer        ; Group      ; 2022-01-05 
+7; Yoga          ; Group      ; 2022-01-08 
+8; Volleyball    ; Group      ; 2022-01-25 
+9; Gymnastics    ; Individual ; 2022-01-30 
+10; Martial Arts  ; Individual ; 2022-01-15 

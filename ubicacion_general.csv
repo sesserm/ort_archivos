@@ -1,0 +1,973 @@
+id_ubicacion;pais;estado;ciudad;fecha_registro
+1;Indonesia;;Pitai;1/1/2022
+2;China;;Xuguang;1/1/2022
+3;Indonesia;;Banjar Madangan Kaja;1/1/2022
+4;Sweden;Värmland;Kil;1/1/2022
+5;Ukraine;;Kharkiv;1/1/2022
+6;China;;Heling;1/1/2022
+7;China;;Guomaying;1/1/2022
+8;China;;Shuangqiaoping;1/1/2022
+9;China;;Heilangkou;1/1/2022
+10;Myanmar;;Shwebo;1/1/2022
+11;Japan;;Uji;1/1/2022
+12;Russia;;Dubrovka;1/1/2022
+13;France;Champagne-Ardenne;Châlons-en-Champagne;1/1/2022
+14;Canada;Northwest Territories;Fort Smith;1/1/2022
+15;Serbia;;Nikolinci;1/1/2022
+16;China;;Yanmen;1/1/2022
+17;Portugal;Santarém;Casal do Conde;1/1/2022
+18;Argentina;;Paraná;1/1/2022
+19;France;Rhône-Alpes;Tassin-la-Demi-Lune;1/1/2022
+20;China;;Quanling;1/1/2022
+21;Sri Lanka;;Kilinochchi;1/1/2022
+22;Mexico;Jalisco;Guadalupe;1/1/2022
+23;Gambia;;Galleh Manda;1/1/2022
+24;Iran;;Mahābād;1/1/2022
+25;Indonesia;;Waturoka;1/1/2022
+26;Russia;;Komsomol’skiy;1/1/2022
+27;China;;Longquan;1/1/2022
+28;Russia;;Strel'na;1/1/2022
+29;Brazil;;Caçapava do Sul;1/1/2022
+30;Peru;;Aija;1/1/2022
+31;Nicaragua;;León;1/1/2022
+32;Paraguay;;Tobatí;1/1/2022
+33;Philippines;;Manila;1/1/2022
+34;Portugal;Porto;Aveleda;1/1/2022
+35;Nigeria;;Gorgoram;1/1/2022
+36;Indonesia;;Gunung Talang;1/1/2022
+37;Portugal;Santarém;Malpique;1/1/2022
+38;Poland;;Białobrzegi;1/1/2022
+39;Czech Republic;;Čejkovice;1/1/2022
+40;Thailand;;Chum Phae;1/1/2022
+41;Venezuela;;Delicias;1/1/2022
+42;China;;Shejiang;1/1/2022
+43;Russia;;Kachkanar;1/1/2022
+44;Malaysia;Sabah;Kota Kinabalu;1/1/2022
+45;Indonesia;;Tagog;1/1/2022
+46;Indonesia;;Sumberan;1/1/2022
+47;Indonesia;;Sarangmeduro;1/1/2022
+48;Argentina;;Concepción del Bermejo;1/1/2022
+49;Mexico;Chiapas;Emiliano Zapata;1/1/2022
+50;Mexico;Coahuila De Zaragoza;Primero de Mayo;1/1/2022
+51;France;Languedoc-Roussillon;Alès;1/1/2022
+52;Indonesia;;Perreng;1/1/2022
+53;Slovenia;;Bovec;1/1/2022
+54;China;;Taipingchuan;1/1/2022
+55;Venezuela;;Cumanacoa;1/1/2022
+56;Spain;Pais Vasco;Donostia-San Sebastian;1/1/2022
+57;China;;Qindu;1/1/2022
+58;Philippines;;Santa Lucia;1/1/2022
+59;China;;Jiahe;1/1/2022
+60;Russia;;Nizhniy Ufaley;1/1/2022
+61;Indonesia;;Pinggan;1/1/2022
+62;Uzbekistan;;Navoiy;1/1/2022
+63;China;;Minjian;1/1/2022
+64;Colombia;;Ocaña;1/1/2022
+65;China;;Gyamco;1/1/2022
+66;Brazil;;Ariquemes;1/1/2022
+67;Finland;;Karkkila;1/1/2022
+68;China;;Xiaomei;1/1/2022
+69;China;;Qiulu;1/1/2022
+70;China;;Rongxi;1/1/2022
+71;Mayotte;;Mamoudzou;1/1/2022
+72;United States;Florida;Orlando;1/1/2022
+73;Japan;;Yatsuomachi-higashikumisaka;1/1/2022
+74;United States;Florida;Lakeland;1/1/2022
+75;China;;Tandou;1/1/2022
+76;Mexico;Jalisco;Lagunillas;1/1/2022
+77;Sweden;Örebro;Karlskoga;1/1/2022
+78;Poland;;Niebylec;1/1/2022
+79;Indonesia;;Taposan;1/1/2022
+80;Portugal;Braga;Quintã;1/1/2022
+81;China;;Shenji;1/1/2022
+82;Syria;;Tādif;1/1/2022
+83;Brazil;;Cravinhos;1/1/2022
+84;Pakistan;;Khānewāl;1/1/2022
+85;Portugal;Leiria;Ponte da Pedra;1/1/2022
+86;Czech Republic;;Kovářská;1/1/2022
+87;China;;Xianzong;1/1/2022
+88;Serbia;;Platičevo;1/1/2022
+89;Thailand;;Phu Luang;1/1/2022
+90;Russia;;Gizel’;1/1/2022
+91;Russia;;Povarovo;1/1/2022
+92;Japan;;Makubetsu;1/1/2022
+93;Poland;;Skarżysko-Kamienna;1/1/2022
+94;Norway;Oslo;Oslo;1/1/2022
+95;Indonesia;;Kendung Timur;1/1/2022
+96;Japan;;Itami;1/1/2022
+97;Mexico;Michoacan De Ocampo;Guadalupe;1/1/2022
+98;China;;Shaping;1/1/2022
+99;China;;Nancaicun;1/1/2022
+100;Poland;;Milanówek;1/1/2022
+101;France;Île-de-France;Colombes;1/1/2022
+102;Indonesia;;Ngulung Wetan;1/1/2022
+103;Russia;;Narimanov;1/1/2022
+104;China;;Sigeng;1/1/2022
+105;Vietnam;;Nhà Bè;1/1/2022
+106;Costa Rica;;Puntarenas;1/1/2022
+107;Canada;Québec;Saint-Jérôme;1/1/2022
+108;Russia;;Dolinsk;1/1/2022
+109;China;;Kuanping;1/1/2022
+110;Portugal;Lisboa;Abóboda;1/1/2022
+111;Nigeria;;Pindiga;1/1/2022
+112;Indonesia;;Pamupukan;1/1/2022
+113;Ukraine;;Kivsharivka;1/1/2022
+114;Spain;Madrid;Madrid;1/1/2022
+115;Brazil;;Nepomuceno;1/1/2022
+116;Brazil;;Brusque;1/1/2022
+117;United States;Michigan;Detroit;1/1/2022
+118;China;;Puqian;1/1/2022
+119;Panama;;Chigoré;1/1/2022
+120;Argentina;;Bella Vista;1/1/2022
+121;Indonesia;;Mafa;1/1/2022
+122;Syria;;Mas‘adah;1/1/2022
+123;China;;Shuangjiang;1/1/2022
+124;Guatemala;;Santiago Atitlán;1/1/2022
+125;Sweden;Stockholm;Nacka;1/1/2022
+126;China;;Nanzhao Chengguanzhen;1/1/2022
+127;Cameroon;;Tonga;1/1/2022
+128;Philippines;;Bagombong;1/1/2022
+129;Jamaica;;Sandy Bay;1/1/2022
+130;Brazil;;Vassouras;1/1/2022
+131;Brazil;;Inhambupe;1/1/2022
+132;Russia;;Piterka;1/1/2022
+133;Philippines;;Liloan;1/1/2022
+134;China;;Tangxi;1/1/2022
+135;Finland;;Ranua;1/1/2022
+136;Pakistan;;Khairpur Nathan Shāh;1/1/2022
+137;Iran;;Bandar-e Māhshahr;1/1/2022
+138;Tajikistan;;Boshkengash;1/1/2022
+139;China;;Qianyou;1/1/2022
+140;Philippines;;La Curva;1/1/2022
+141;Russia;;Sivaki;1/1/2022
+142;Uganda;;Amuru;1/1/2022
+143;Afghanistan;;Kafir Qala;1/1/2022
+144;China;;Jingning Chengguanzhen;1/1/2022
+145;Georgia;;Kelasuri;1/1/2022
+146;China;;Gaotuan;1/1/2022
+147;Afghanistan;;Shahr-e Şafā;1/1/2022
+148;China;;Shaxi;1/1/2022
+149;Sweden;Stockholm;Stockholm;1/1/2022
+150;Syria;;‘Afrīn;1/1/2022
+151;Indonesia;;Cabean;1/1/2022
+152;Bosnia and Herzegovina;;Gornje Moštre;1/1/2022
+153;Russia;;Khanino;1/1/2022
+154;Latvia;;Murmuiža;1/1/2022
+155;Swaziland;;Tshaneni;1/1/2022
+156;Indonesia;;Tumpakkepuh;1/1/2022
+157;France;Alsace;Molsheim;1/1/2022
+158;China;;Xuanhua;1/1/2022
+159;Italy;Lazio;Roma;1/1/2022
+160;Russia;;Usogorsk;1/1/2022
+161;Vietnam;;Đông Thành;1/1/2022
+162;Luxembourg;;Wincrange;1/1/2022
+163;Thailand;;Kalasin;1/1/2022
+164;China;;Huangcun;1/1/2022
+165;New Zealand;;Brooklyn;1/1/2022
+166;Portugal;Santarém;Marinhais;1/1/2022
+167;Bosnia and Herzegovina;;Dobrljin;1/1/2022
+168;Portugal;Lisboa;Sobral da Abelheira;1/1/2022
+169;Brazil;;Bom Jesus da Lapa;1/1/2022
+170;Colombia;;Maicao;1/1/2022
+171;South Africa;;Bela-Bela;1/1/2022
+172;Russia;;Neklyudovo;1/1/2022
+173;Philippines;;Apurawan;1/1/2022
+174;Chile;;Río Bueno;1/1/2022
+175;Canada;Nunavut;Kugluktuk;1/1/2022
+176;Benin;;Hinvi;1/1/2022
+177;Indonesia;;Rato;1/1/2022
+178;Cyprus;;Famagusta;1/1/2022
+179;Mexico;Sonora;Fovissste;1/1/2022
+180;Philippines;;Baloc;1/1/2022
+181;Indonesia;;Bungereng;1/1/2022
+182;Israel;;Yavne;1/1/2022
+183;Indonesia;;Babakan Baru;1/1/2022
+184;Tanzania;;Mlowo;1/1/2022
+185;France;Île-de-France;Courtaboeuf;1/1/2022
+186;China;;Xufeng;1/1/2022
+187;Poland;;Stare Kurowo;1/1/2022
+188;Indonesia;;Sukarama;1/1/2022
+189;Serbia;;Apatin;1/1/2022
+190;Indonesia;;Noenoni;1/1/2022
+191;Indonesia;;Teluk Pinang;1/1/2022
+192;France;Midi-Pyrénées;Labège;1/1/2022
+193;Bulgaria;;Dulovo;1/1/2022
+194;Belarus;;Baranovichi;1/1/2022
+195;Afghanistan;;Jalālābād;1/1/2022
+196;Russia;;Pervomaysk;1/1/2022
+197;Sweden;Östergötland;Linköping;1/1/2022
+198;Poland;;Sadowie;1/1/2022
+199;China;;Taoyuan;1/1/2022
+200;New Zealand;;Christchurch;1/1/2022
+201;Russia;;Sechenovo;1/1/2022
+202;Poland;;Złotów;1/1/2022
+203;France;Provence-Alpes-Côte d'Azur;Vedène;1/1/2022
+204;Nepal;;Ithari;1/1/2022
+205;Portugal;Portalegre;Santo Aleixo;1/1/2022
+206;Sweden;Jönköping;Huskvarna;1/1/2022
+207;Poland;;Łyse;1/1/2022
+208;Brazil;;Paraipaba;1/1/2022
+209;China;;Shiye;1/1/2022
+210;United States;New York;Hicksville;1/1/2022
+211;Cuba;;Río Cauto;1/1/2022
+212;Russia;;Firovo;1/1/2022
+213;Cyprus;;Kokkini Trimithia;1/1/2022
+214;France;Champagne-Ardenne;Troyes;1/1/2022
+215;Peru;;Soritor;1/1/2022
+216;Indonesia;;Raci Kulon;1/1/2022
+217;Netherlands;Provincie Zuid-Holland;Delft;1/1/2022
+218;Peru;;Taurisma;1/1/2022
+219;Sweden;Västra Götaland;Bohus;1/1/2022
+220;Indonesia;;Bangekdewa;1/1/2022
+221;China;;Zhongxin;1/1/2022
+222;Argentina;;Mar del Plata;1/1/2022
+223;Ukraine;;Ripky;1/1/2022
+224;Mexico;Guerrero;Las Palmas;1/1/2022
+225;Indonesia;;Kotablolong;1/1/2022
+226;Russia;;Grecheskoye;1/1/2022
+227;Indonesia;;Biris Daja;1/1/2022
+228;Indonesia;;Semamung;1/1/2022
+229;Portugal;Porto;Penha Longa;1/1/2022
+230;Portugal;Lisboa;Odrinhas;1/1/2022
+231;Poland;;Skórcz;1/1/2022
+232;France;Languedoc-Roussillon;Nîmes;1/1/2022
+233;China;;Baishi;1/1/2022
+234;China;;Xinyang;1/1/2022
+235;Russia;;Chita;1/1/2022
+236;France;Île-de-France;Noisy-le-Grand;1/1/2022
+237;China;;Daqiao;1/1/2022
+238;Indonesia;;Waihibar;1/1/2022
+239;China;;Changshengqiao;1/1/2022
+240;Brazil;;Ribeirão da Ilha;1/1/2022
+241;Belarus;;Byerazino;1/1/2022
+242;Philippines;;Santa Teresa First;1/1/2022
+243;China;;Wenquan;1/1/2022
+244;China;;Meiyuan;1/1/2022
+245;China;;Jingtan;1/1/2022
+246;Indonesia;;Jembe Timur;1/1/2022
+247;Portugal;Porto;Seixo Alvo;1/1/2022
+248;South Korea;;Gwangtan;1/1/2022
+249;Finland;;Ingå;1/1/2022
+250;Tanzania;;Igurubi;1/1/2022
+251;Indonesia;;Kebonagung;1/1/2022
+252;Ukraine;;Yarmolyntsi;1/1/2022
+253;Indonesia;;Cimalati;1/1/2022
+254;Syria;;Qarqania;1/1/2022
+255;Spain;Castilla - Leon;Palencia;1/1/2022
+256;France;Île-de-France;Gentilly;1/1/2022
+257;Mongolia;;Uubulan;1/1/2022
+258;Thailand;;Tha Wang Pha;1/1/2022
+259;Colombia;;Repelón;1/1/2022
+260;Tanzania;;Madimba;1/1/2022
+261;Tanzania;;Old Shinyanga;1/1/2022
+262;Ukraine;;Pryyutivka;1/1/2022
+263;Poland;;Dzików Stary;1/1/2022
+264;China;;Renyi;1/1/2022
+265;Tanzania;;Sikonge;1/1/2022
+266;United States;Nebraska;Lincoln;1/1/2022
+267;Argentina;;Patquía;1/1/2022
+268;Russia;;Oyskhara;1/1/2022
+269;Indonesia;;Kabar Utara;1/1/2022
+270;Russia;;Kuznechnoye;1/1/2022
+271;China;;Pingsha;1/1/2022
+272;China;;Chagou;1/1/2022
+273;Mexico;Sonora;Benito Juarez;1/1/2022
+274;Poland;;Jarocin;1/1/2022
+275;Philippines;;Budta;1/1/2022
+276;China;;Choujiang;1/1/2022
+277;Mexico;Veracruz Llave;La Victoria;1/1/2022
+278;Philippines;;Busdi;1/1/2022
+279;Mongolia;;Bayanhongor;1/1/2022
+280;Serbia;;Kraljevo;1/1/2022
+281;Nicaragua;;San Ramón;1/1/2022
+282;Cuba;;Arroyo Naranjo;1/1/2022
+283;Angola;;Lobito;1/1/2022
+284;Togo;;Sansanné-Mango;1/1/2022
+285;China;;Taipingzhuang;1/1/2022
+286;Sweden;Värmland;Torsby;1/1/2022
+287;China;;Julun;1/1/2022
+288;Croatia;;Novi Zagreb;1/1/2022
+289;Indonesia;;Karanganyar;1/1/2022
+290;Tanzania;;Mhango;1/1/2022
+291;Honduras;;Talanga;1/1/2022
+292;Mexico;Mexico;El Carmen;1/1/2022
+293;China;;Shuangfeng;1/1/2022
+294;China;;Bao’an;1/1/2022
+295;Philippines;;Zamboanguita;1/1/2022
+296;United States;North Carolina;Winston Salem;1/1/2022
+297;Saint Kitts and Nevis;;Trinity;1/1/2022
+298;China;;Nancheng;1/1/2022
+299;Colombia;;Morales;1/1/2022
+300;Russia;;Vodnyy;1/1/2022
+301;France;Île-de-France;Nanterre;1/1/2022
+302;Indonesia;;Ranambeling;1/1/2022
+303;Russia;;Maloarkhangel’sk;1/1/2022
+304;Poland;;Łapczyca;1/1/2022
+305;Peru;;Ichuña;1/1/2022
+306;Czech Republic;;Rudolfov;1/1/2022
+307;Bulgaria;;Kŭrdzhali;1/1/2022
+308;China;;Dongguan;1/1/2022
+309;Russia;;Yoshkar-Ola;1/1/2022
+310;China;;Zibo;1/1/2022
+311;Syria;;Al Ghāriyah;1/1/2022
+312;Indonesia;;Gununglajang;1/1/2022
+313;Portugal;Porto;Calçada;1/1/2022
+314;Azerbaijan;;Sheki;1/1/2022
+315;Indonesia;;Ipuh;1/1/2022
+316;Madagascar;;Ambato Boeny;1/1/2022
+317;Indonesia;;Sukamaju;1/1/2022
+318;Russia;;Irkutsk;1/1/2022
+319;Sweden;Stockholm;Vällingby;1/1/2022
+320;Russia;;Shali;1/1/2022
+321;Indonesia;;Baleagung;1/1/2022
+322;Slovenia;;Mežica;1/1/2022
+323;China;;Qitai;1/1/2022
+324;Guatemala;;Concepción;1/1/2022
+325;Indonesia;;Kedatuan;1/1/2022
+326;China;;Xiangshan;1/1/2022
+327;Brazil;;Pitanga;1/1/2022
+328;China;;Fuhai;1/1/2022
+329;Bhutan;;Tsimasham;1/1/2022
+330;China;;Nanzhai;1/1/2022
+331;Ukraine;;Lyubeshiv;1/1/2022
+332;Russia;;Ishimbay;1/1/2022
+333;United States;Florida;Jacksonville;1/1/2022
+334;China;;Yonggu;1/1/2022
+335;Iran;;Gālīkesh;1/1/2022
+336;Russia;;Sakharovo;1/1/2022
+337;China;;Dagang;1/1/2022
+338;France;Aquitaine;Périgueux;1/1/2022
+339;Mexico;Veracruz Llave;Primero de Mayo;1/1/2022
+340;Jamaica;;Lionel Town;1/1/2022
+341;Nepal;;Jomsom;1/1/2022
+342;Indonesia;;Tanggung;1/1/2022
+343;Macedonia;;Šuto Orizare;1/1/2022
+344;Russia;;Dubinino;1/1/2022
+345;Brazil;;Birigui;1/1/2022
+346;China;;Jingyang;1/1/2022
+347;China;;Xinxu;1/1/2022
+348;Poland;;Bogatynia;1/1/2022
+349;Sweden;Stockholm;Solna;1/1/2022
+350;Serbia;;Gornji Milanovac;1/1/2022
+351;Morocco;;Ghouazi;1/1/2022
+352;Brazil;;Criciúma;1/1/2022
+353;China;;Changping;1/1/2022
+354;Philippines;;Lanuza;1/1/2022
+355;China;;Longlisuo;1/1/2022
+356;China;;Xinjie;1/1/2022
+357;Mexico;Oaxaca;San Jose;1/1/2022
+358;Japan;;Yachimata;1/1/2022
+359;Greece;;Portariá;1/1/2022
+360;South Africa;;Germiston;1/1/2022
+361;China;;Bagou;1/1/2022
+362;Colombia;;Liborina;1/1/2022
+363;Netherlands;Provincie Zuid-Holland;Den Haag;1/1/2022
+364;China;;Huyunxiang;1/1/2022
+365;Indonesia;;Ganjaran;1/1/2022
+366;Ireland;;Skerries;1/1/2022
+367;Lithuania;;Varniai;1/1/2022
+368;Brazil;;Camaquã;1/1/2022
+369;Peru;;Churubamba;1/1/2022
+370;Vietnam;;Hưng Nguyên;1/1/2022
+371;Indonesia;;Kendal;1/1/2022
+372;Russia;;Krasnyy Oktyabr’;1/1/2022
+373;Czech Republic;;Sviadnov;1/1/2022
+374;Canada;Saskatchewan;Outlook;1/1/2022
+375;China;;Nanlü;1/1/2022
+376;Indonesia;;Balangpule;1/1/2022
+377;Canada;British Columbia;Summerland;1/1/2022
+378;Brazil;;Estrela;1/1/2022
+379;Indonesia;;Karangori;1/1/2022
+380;China;;Serh;1/1/2022
+381;Egypt;;Ţahţā;1/1/2022
+382;Nigeria;;Ngala;1/1/2022
+383;China;;Moshiyi;1/1/2022
+384;Guatemala;;Joyabaj;1/1/2022
+385;Canada;Alberta;Taber;1/1/2022
+386;Sweden;Kalmar;Nybro;1/1/2022
+387;South Korea;;Nonsan;1/1/2022
+388;Indonesia;;Talun;1/1/2022
+389;Serbia;;Novi Beograd;1/1/2022
+390;Armenia;;Hats’avan;1/1/2022
+391;China;;Guocun;1/1/2022
+392;China;;Lianglin;1/1/2022
+393;China;;Bulianhe;1/1/2022
+394;Nepal;;Butwāl;1/1/2022
+395;China;;Mingguang;1/1/2022
+396;France;Île-de-France;Montreuil;1/1/2022
+397;Russia;;Kulotino;1/1/2022
+398;Ireland;;Mullagh;1/1/2022
+399;China;;Xiashe;1/1/2022
+400;Costa Rica;;Nicoya;1/1/2022
+401;Serbia;;Klek;1/1/2022
+402;China;;Lantian;1/1/2022
+403;Philippines;;Batarasa;1/1/2022
+404;China;;Xiakouyi;1/1/2022
+405;Ghana;;Keta;1/1/2022
+406;Poland;;Stronie;1/1/2022
+407;Canada;Saskatchewan;Lumsden;1/1/2022
+408;China;;Tucheng;1/1/2022
+409;United States;Virginia;Arlington;1/1/2022
+410;China;;Yuanling;1/1/2022
+411;Indonesia;;Baru;1/1/2022
+412;Indonesia;;Winong;1/1/2022
+413;Indonesia;;Bofuer;1/1/2022
+414;China;;Sanqiao;1/1/2022
+415;China;;Guanghou;1/1/2022
+416;China;;Haozigang;1/1/2022
+417;Palestinian Territory;;Al Majd;1/1/2022
+418;Netherlands;Provincie Noord-Brabant;Bergen op Zoom;1/1/2022
+419;Sweden;Dalarna;Mora;1/1/2022
+420;China;;Kanshan;1/1/2022
+421;Brazil;;Itatinga;1/1/2022
+422;China;;Tailing;1/1/2022
+423;China;;Zhongling;1/1/2022
+424;Brazil;;Montenegro;1/1/2022
+425;Germany;Sachsen-Anhalt;Halle;1/1/2022
+426;Sri Lanka;;Wattala;1/1/2022
+427;Portugal;Portalegre;Portalegre;1/1/2022
+428;Tajikistan;;Kŭlob;1/1/2022
+429;Brazil;;Caucaia;1/1/2022
+430;Poland;;Brzeszcze;1/1/2022
+431;Bangladesh;;Bhātpāra Abhaynagar;1/1/2022
+432;Azerbaijan;;Khodzhi-Gasan;1/1/2022
+433;United States;Louisiana;Shreveport;1/1/2022
+434;Libya;;Qasr Abu Hadi;1/1/2022
+435;China;;Sihe;1/1/2022
+436;Greece;;Néa Filadélfeia;1/1/2022
+437;China;;Mijiang;1/1/2022
+438;Poland;;Rymanów;1/1/2022
+439;Ireland;;Balrothery;1/1/2022
+440;Tajikistan;;Istaravshan;1/1/2022
+441;Sweden;Blekinge;Karlskrona;1/1/2022
+442;Russia;;Urazovka;1/1/2022
+443;Nigeria;;Toungo;1/1/2022
+444;China;;Guolemude;1/1/2022
+445;China;;Liulihe;1/1/2022
+446;Japan;;Yono;1/1/2022
+447;Haiti;;Abricots;1/1/2022
+448;Yemen;;Ḩawf;1/1/2022
+449;Czech Republic;;Zlín;1/1/2022
+450;Russia;;Mamonovo;1/1/2022
+451;China;;Jiashan;1/1/2022
+452;United States;Texas;Humble;1/1/2022
+453;Canada;Québec;Prévost;1/1/2022
+454;Ukraine;;Kotsyubyns’ke;1/1/2022
+455;China;;Hedi;1/1/2022
+456;Brazil;;Miguelópolis;1/1/2022
+457;Indonesia;;Cimuncang;1/1/2022
+458;Morocco;;Tizgane;1/1/2022
+459;Czech Republic;;Doubrava;1/1/2022
+460;Portugal;Ilha de São Miguel;Achadinha;1/1/2022
+461;Portugal;Faro;São Marcos da Serra;1/1/2022
+462;Colombia;;Envigado;1/1/2022
+463;Bolivia;;Villa Yapacaní;1/1/2022
+464;Peru;;Pitumarca;1/1/2022
+465;Philippines;;Mamonit;1/1/2022
+466;Belarus;;Dashkawka;1/1/2022
+467;China;;Shuinan;1/1/2022
+468;Portugal;Setúbal;Ermidas do Sado;1/1/2022
+469;Bulgaria;;Shipka;1/1/2022
+470;Sweden;Västra Götaland;Lindome;1/1/2022
+471;Thailand;;Thap Than;1/1/2022
+472;Brazil;;Itapevi;1/1/2022
+473;Brazil;;Limeira;1/1/2022
+474;Indonesia;;Tais;1/1/2022
+475;Russia;;Valuyki;1/1/2022
+476;Honduras;;Santiago Puringla;1/1/2022
+477;Bangladesh;;Phultala;1/1/2022
+478;Poland;;Pantalowice;1/1/2022
+479;China;;Dong Liang’erzhuang;1/1/2022
+480;Greece;;Prómachoi;1/1/2022
+481;Philippines;;Cabatuan;1/1/2022
+482;United States;Hawaii;Honolulu;1/1/2022
+483;China;;Xiayang;1/1/2022
+484;Poland;;Rybno;1/1/2022
+485;Sudan;;Al Lagowa;1/1/2022
+486;Philippines;;Balangonan;1/1/2022
+487;Indonesia;;Warmare;1/1/2022
+488;Syria;;Al Ya‘rubīyah;1/1/2022
+489;Indonesia;;Singkir;1/1/2022
+490;France;Midi-Pyrénées;Montauban;1/1/2022
+491;Russia;;Severomorsk;1/1/2022
+492;Finland;;Masku;1/1/2022
+493;Indonesia;;Liliana;1/1/2022
+494;Mozambique;;Lichinga;1/1/2022
+495;Poland;;Ceranów;1/1/2022
+496;Russia;;Lefortovo;1/1/2022
+497;Iran;;Sarbīsheh;1/1/2022
+498;Serbia;;Inđija;1/1/2022
+499;Portugal;Leiria;Lameiro;1/1/2022
+500;Indonesia;;Kutapanjang;1/1/2022
+501;China;;Jeminay;1/1/2022
+502;Portugal;Porto;Retorta;1/1/2022
+503;Russia;;Novyye Kuz’minki;1/1/2022
+504;Mongolia;;Khujirt;1/1/2022
+505;Russia;;Ukhta;1/1/2022
+506;Malaysia;Melaka;Melaka;1/1/2022
+507;China;;Hanjiashu;1/1/2022
+508;Brazil;;Iracemápolis;1/1/2022
+509;China;;Hulitu;1/1/2022
+510;Brazil;;Caieiras;1/1/2022
+511;Japan;;Togitsu;1/1/2022
+512;China;;Jianshe;1/1/2022
+513;Indonesia;;Tebon;1/1/2022
+514;Philippines;;Limbalod;1/1/2022
+515;Azerbaijan;;Shamkhor;1/1/2022
+516;Georgia;;Oni;1/1/2022
+517;China;;Longtan;1/1/2022
+518;China;;A’ershan;1/1/2022
+519;Czech Republic;;Mirotice;1/1/2022
+520;Poland;;Siedliska;1/1/2022
+521;China;;Yongle;1/1/2022
+522;China;;Wantou;1/1/2022
+523;Canada;Québec;Maniwaki;1/1/2022
+524;Ukraine;;Izyum;1/1/2022
+525;Mexico;Guerrero;Fovissste;1/1/2022
+526;Indonesia;;Guradog;1/1/2022
+527;Costa Rica;;Paquera;1/1/2022
+528;Democratic Republic of the Congo;;Mbuji-Mayi;1/1/2022
+529;Mongolia;;Darhan;1/1/2022
+530;Bonaire, Saint Eustatius and Saba ;;Upper Hell's Gate;1/1/2022
+531;Japan;;Namioka;1/1/2022
+532;Ukraine;;Mirovka;1/1/2022
+533;China;;Baiqi;1/1/2022
+534;Dominican Republic;;Oviedo;1/1/2022
+535;China;;Xiugu;1/1/2022
+536;China;;Yucheng;1/1/2022
+537;Colombia;;El Espino;1/1/2022
+538;Indonesia;;Ketanen;1/1/2022
+539;China;;Hongshan;1/1/2022
+540;Canada;New Brunswick;Oromocto;1/1/2022
+541;United States;Illinois;Chicago;1/1/2022
+542;China;;Xinhuang;1/1/2022
+543;Russia;;Rybnoye;1/1/2022
+544;China;;Huai’an;1/1/2022
+545;Gambia;;Jakhaly;1/1/2022
+546;Albania;;Luftinjë;1/1/2022
+547;United States;Virginia;Richmond;1/1/2022
+548;Philippines;;Sabang;1/1/2022
+549;Philippines;;Kagay;1/1/2022
+550;Philippines;;Paraiso;1/1/2022
+551;Russia;;Lipin Bor;1/1/2022
+552;China;;Shizi;1/1/2022
+553;Indonesia;;Wangkung;1/1/2022
+554;Philippines;;Doyong;1/1/2022
+555;Russia;;Shchukino;1/1/2022
+556;Argentina;;Goya;1/1/2022
+557;China;;Fengyi;1/1/2022
+558;China;;Weiwangzhuang;1/1/2022
+559;Russia;;Artybash;1/1/2022
+560;Indonesia;;Baratan;1/1/2022
+561;North Korea;;Kyŏngsŏng;1/1/2022
+562;Indonesia;;Tanjung Palas;1/1/2022
+563;France;Île-de-France;Paris 12;1/1/2022
+564;Indonesia;;Bangelan;1/1/2022
+565;Serbia;;Varna;1/1/2022
+566;United States;District of Columbia;Washington;1/1/2022
+567;Russia;;Vol’sk;1/1/2022
+568;Portugal;Braga;Mó;1/1/2022
+569;Tanzania;;Mtwango;1/1/2022
+570;Afghanistan;;Khudāydād Khēl;1/1/2022
+571;Ukraine;;Verkhnya Syrovatka;1/1/2022
+572;Tanzania;;Kandete;1/1/2022
+573;Brazil;;Coelho Neto;1/1/2022
+574;Philippines;;Bulacan;1/1/2022
+575;France;Île-de-France;Gif-sur-Yvette;1/1/2022
+576;Dominican Republic;;Jamao al Norte;1/1/2022
+577;Russia;;Krasnyy Gulyay;1/1/2022
+578;China;;Potou;1/1/2022
+579;Indonesia;;Ciela Lebak;1/1/2022
+580;Slovenia;;Mokronog;1/1/2022
+581;Costa Rica;;San José;1/1/2022
+582;Guatemala;;San Cristóbal Cucho;1/1/2022
+583;United States;Maryland;Silver Spring;1/1/2022
+584;Djibouti;;Ḏânan;1/1/2022
+585;Indonesia;;Gampingan;1/1/2022
+586;Brazil;;Itinga;1/1/2022
+587;Peru;;Cochabamba;1/1/2022
+588;Philippines;;Poctol;1/1/2022
+589;Micronesia;;Palikir - National Government Center;1/1/2022
+590;China;;Xingzi;1/1/2022
+591;Vietnam;;Đà Bắc;1/1/2022
+592;China;;Qingxi;1/1/2022
+593;Russia;;Nartkala;1/1/2022
+594;Indonesia;;Ciguha Tengah;1/1/2022
+595;China;;Jiashi;1/1/2022
+596;Indonesia;;Tanagara;1/1/2022
+597;Thailand;;Wat Sing;1/1/2022
+598;Philippines;;Mabilang;1/1/2022
+599;Mexico;Chiapas;El Mirador;1/1/2022
+600;Croatia;;Drnje;1/1/2022
+601;Indonesia;;Saripin;1/1/2022
+602;France;Île-de-France;Rungis;1/1/2022
+603;Indonesia;;Kelungkung;1/1/2022
+604;China;;Liancheng;1/1/2022
+605;Georgia;;Dmanisi;1/1/2022
+606;Indonesia;;Kedungtuban;1/1/2022
+607;Russia;;Vorontsovka;1/1/2022
+608;Japan;;Buzen;1/1/2022
+609;Malaysia;Pahang;Kuantan;1/1/2022
+610;Indonesia;;Ciharalang;1/1/2022
+611;Serbia;;Banatsko Veliko Selo;1/1/2022
+612;Jordan;;Amman;1/1/2022
+613;Indonesia;;Sukamenak;1/1/2022
+614;Macedonia;;Ресен;1/1/2022
+615;Brazil;;Bataiporã;1/1/2022
+616;Venezuela;;Pregonero;1/1/2022
+617;Nigeria;;Kibiya;1/1/2022
+618;Russia;;Kunashak;1/1/2022
+619;Greece;;Kallífytos;1/1/2022
+620;Kenya;;Kakamega;1/1/2022
+621;Japan;;Kameoka;1/1/2022
+622;Portugal;Viseu;Castainço;1/1/2022
+623;Thailand;;Pluak Daeng;1/1/2022
+624;Malaysia;Negeri Sembilan;Seremban;1/1/2022
+625;China;;Jialou;1/1/2022
+626;Sweden;Västernorrland;Sundsvall;1/1/2022
+627;Ecuador;;Machala;1/1/2022
+628;Portugal;Ilha de São Jorge;Rosais;1/1/2022
+629;Philippines;;Limbuhan;1/1/2022
+630;China;;Jin’e;1/1/2022
+631;Portugal;Évora;São Lourenço de Mamporcão;1/1/2022
+632;Colombia;;Villavicencio;1/1/2022
+633;Comoros;;Mkiriwadjumoi;1/1/2022
+634;Russia;;Kharabali;1/1/2022
+635;Philippines;;Pulong Gubat;1/1/2022
+636;China;;Wangshi;1/1/2022
+637;Philippines;;Parista;1/1/2022
+638;China;;Tonghong;1/1/2022
+639;Honduras;;El Suyatal;1/1/2022
+640;Croatia;;Jakšić;1/1/2022
+641;Indonesia;;Koanara;1/1/2022
+642;Indonesia;;Kalianget;1/1/2022
+643;Russia;;Georgiyevka;1/1/2022
+644;Yemen;;Banī an Nahārī;1/1/2022
+645;China;;Donghoufang;1/1/2022
+646;Zambia;;Sinazongwe;1/1/2022
+647;Mexico;Mexico;San Juan;1/1/2022
+648;El Salvador;;Sonzacate;1/1/2022
+649;Philippines;;Infanta;1/1/2022
+650;Poland;;Krosno;1/1/2022
+651;Poland;;Strzelin;1/1/2022
+652;United States;Missouri;Saint Louis;1/1/2022
+653;Pakistan;;Chak Two Hundred Forty-Nine TDA;1/1/2022
+654;Sweden;Stockholm;Norsborg;1/1/2022
+655;Croatia;;Rezovac;1/1/2022
+656;Indonesia;;Kokas;1/1/2022
+657;China;;Longtian;1/1/2022
+658;Japan;;Fujinomiya;1/1/2022
+659;Indonesia;;Satowebrang;1/1/2022
+660;China;;Qingkou;1/1/2022
+661;Philippines;;Cambarus;1/1/2022
+662;Chile;;Taltal;1/1/2022
+663;China;;Meishan;1/1/2022
+664;Armenia;;Balahovit;1/1/2022
+665;Philippines;;Tipaz;1/1/2022
+666;Czech Republic;;Teplice;1/1/2022
+667;China;;Sanhe;1/1/2022
+668;China;;Tianxingchang;1/1/2022
+669;Argentina;;Las Heras;1/1/2022
+670;Cameroon;;Kribi;1/1/2022
+671;China;;Jiegan;1/1/2022
+672;Brazil;;São Gonçalo do Sapucaí;1/1/2022
+673;Philippines;;Libertad;1/1/2022
+674;Mexico;Mexico;La Virgen;1/1/2022
+675;Portugal;Leiria;Casal da Anja;1/1/2022
+676;Portugal;Porto;Fraga;1/1/2022
+677;France;Provence-Alpes-Côte d'Azur;Toulon;1/1/2022
+678;Tunisia;;Nabeul;1/1/2022
+679;Poland;;Wołomin;1/1/2022
+680;Serbia;;Pančevo;1/1/2022
+681;Philippines;;Calancuasan Norte;1/1/2022
+682;Indonesia;;Ntaur Satu;1/1/2022
+683;China;;Madoi;1/1/2022
+684;Indonesia;;Kuaro;1/1/2022
+685;China;;Weixin;1/1/2022
+686;Sweden;Kalmar;Oskarshamn;1/1/2022
+687;France;Picardie;Amiens;1/1/2022
+688;Poland;;Baranowo;1/1/2022
+689;Russia;;Odintsovo;1/1/2022
+690;China;;Xinchong;1/1/2022
+691;Indonesia;;Aemura;1/1/2022
+692;China;;Jinhua;1/1/2022
+693;Russia;;Khvalynsk;1/1/2022
+694;Philippines;;San Bernardo;1/1/2022
+695;China;;Baisha;1/1/2022
+696;China;;Zhapu;1/1/2022
+697;Serbia;;Golubinci;1/1/2022
+698;Indonesia;;Mujur;1/1/2022
+699;Pakistan;;Moro;1/1/2022
+700;Portugal;Porto;Boucinhas;1/1/2022
+701;Greece;;Evxinoúpolis;1/1/2022
+702;Portugal;Aveiro;Sarrazola;1/1/2022
+703;Indonesia;;Banjar Pekandelan;1/1/2022
+704;Ukraine;;Velyka Oleksandrivka;1/1/2022
+705;United States;Florida;Bradenton;1/1/2022
+706;Russia;;Vetluzhskiy;1/1/2022
+707;Croatia;;Prelog;1/1/2022
+708;Botswana;;Khakhea;1/1/2022
+709;Indonesia;;Seren;1/1/2022
+710;China;;Jiangning;1/1/2022
+711;Palau;;Tobi Village;1/1/2022
+712;Myanmar;;Paungde;1/1/2022
+713;Reunion;Réunion;Saint-Denis;1/1/2022
+714;Thailand;;Lahan Sai;1/1/2022
+715;Chile;;Angol;1/1/2022
+716;Serbia;;Adorjan;1/1/2022
+717;Russia;;Ramenki;1/1/2022
+718;Peru;;Chao;1/1/2022
+719;Guatemala;;Chisec;1/1/2022
+720;Russia;;Petrovsk;1/1/2022
+721;Portugal;Vila Real;Ribeiro;1/1/2022
+722;Philippines;;Tabuk;1/1/2022
+723;Jamaica;;Saint Ann’s Bay;1/1/2022
+724;China;;Xiongjia;1/1/2022
+725;China;;Zhoukou;1/1/2022
+726;Indonesia;;Sambopinggir;1/1/2022
+727;Indonesia;;Wonosari;1/1/2022
+728;Philippines;;Malasiqui;1/1/2022
+729;China;;Gaohong;1/1/2022
+730;Mongolia;;Altanbulag;1/1/2022
+731;Mexico;Guanajuato;San Miguel;1/1/2022
+732;Czech Republic;;Šenov;1/1/2022
+733;Indonesia;;Funga;1/1/2022
+734;Portugal;Bragança;Santulhão;1/1/2022
+735;Philippines;;Cabuyao;1/1/2022
+736;Slovenia;;Radlje ob Dravi;1/1/2022
+737;Portugal;Leiria;Vale da Bajouca;1/1/2022
+738;Indonesia;;Banjar Laing;1/1/2022
+739;Croatia;;Orahovica;1/1/2022
+740;China;;Kuleqi;1/1/2022
+741;Brazil;;Rio das Pedras;1/1/2022
+742;Indonesia;;Allealle;1/1/2022
+743;Panama;;El Coco;1/1/2022
+744;Czech Republic;;Dolní Libina;1/1/2022
+745;Nigeria;;Danja;1/1/2022
+746;Brazil;;Buriti Bravo;1/1/2022
+747;Ukraine;;Balky;1/1/2022
+748;Indonesia;;Nangtang;1/1/2022
+749;Honduras;;San Jerónimo;1/1/2022
+750;Poland;;Swiętajno;1/1/2022
+751;Bahamas;;Duncan Town;1/1/2022
+752;Poland;;Mazańcowice;1/1/2022
+753;Portugal;Braga;Boucinha;1/1/2022
+754;Poland;;Gwoźnica Górna;1/1/2022
+755;Cameroon;;Banyo;1/1/2022
+756;Sierra Leone;;Freetown;1/1/2022
+757;Costa Rica;;Matina;1/1/2022
+758;Argentina;;Las Breñas;1/1/2022
+759;France;Île-de-France;Sainte-Geneviève-des-Bois;1/1/2022
+760;Brazil;;Itabaiana;1/1/2022
+761;Philippines;;Palestina;1/1/2022
+762;Serbia;;Svrljig;1/1/2022
+763;China;;Beiqijia;1/1/2022
+764;Argentina;;Presidencia Roque Sáenz Peña;1/1/2022
+765;China;;Zhendeqiao;1/1/2022
+766;Bosnia and Herzegovina;;Pajić Polje;1/1/2022
+767;Indonesia;;Gobang;1/1/2022
+768;France;Rhône-Alpes;Caluire-et-Cuire;1/1/2022
+769;Bangladesh;;Habiganj;1/1/2022
+770;China;;Fangcun;1/1/2022
+771;United States;Pennsylvania;Pittsburgh;1/1/2022
+772;Afghanistan;;Jurm;1/1/2022
+773;Russia;;Rudnogorsk;1/1/2022
+774;Peru;;Punta Hermosa;1/1/2022
+775;Vietnam;;Thị Trấn Bình Mỹ;1/1/2022
+776;Albania;;Derjan;1/1/2022
+777;Moldova;;Edineţ;1/1/2022
+778;Armenia;;Saramech;1/1/2022
+779;Canada;British Columbia;Anmore;1/1/2022
+780;China;;Piancheng;1/1/2022
+781;Indonesia;;Krajan Menggare;1/1/2022
+782;China;;Sanjiao;1/1/2022
+783;Indonesia;;Oesena;1/1/2022
+784;Russia;;Volosovo;1/1/2022
+785;Philippines;;Aloleng;1/1/2022
+786;Albania;;Vithkuq;1/1/2022
+787;Canada;British Columbia;North Cowichan;1/1/2022
+788;Russia;;Staroshcherbinovskaya;1/1/2022
+789;Democratic Republic of the Congo;;Mbanza-Ngungu;1/1/2022
+790;Peru;;Callahuanca;1/1/2022
+791;Indonesia;;Tene;1/1/2022
+792;Burkina Faso;;Djibo;1/1/2022
+793;Japan;;Toyooka;1/1/2022
+794;Japan;;Hiratachō;1/1/2022
+795;China;;Daying;1/1/2022
+796;China;;Shijie;1/1/2022
+797;Indonesia;;Miribanteng;1/1/2022
+798;China;;Gaocheng;1/1/2022
+799;Luxembourg;;Mertzig;1/1/2022
+800;Philippines;;Anilao;1/1/2022
+801;Dominican Republic;;Miches;1/1/2022
+802;Montenegro;;Pljevlja;1/1/2022
+803;Philippines;;Baugo;1/1/2022
+804;Austria;Kaernten;Villach;1/1/2022
+805;Morocco;;El Hajeb;1/1/2022
+806;Portugal;Setúbal;Barra Cheia;1/1/2022
+807;Russia;;Semikarakorsk;1/1/2022
+808;Nepal;;Nepalgunj;1/1/2022
+809;Norway;Vest-Agder;Kristiansand S;1/1/2022
+810;Japan;;Kumagaya;1/1/2022
+811;Tunisia;;Kairouan;1/1/2022
+812;Cuba;;Nuevitas;1/1/2022
+813;Israel;;Nehalim;1/1/2022
+814;Indonesia;;Karangsari;1/1/2022
+815;China;;Ningxi;1/1/2022
+816;Mongolia;;Buyant;1/1/2022
+817;Indonesia;;Ombarade;1/1/2022
+818;China;;Niandou;1/1/2022
+819;China;;Jiuzhen;1/1/2022
+820;Indonesia;;Pocokan Satu;1/1/2022
+821;Greece;;Stylída;1/1/2022
+822;Nepal;;Dhangarhi;1/1/2022
+823;Germany;Saarland;Saarbrücken;1/1/2022
+824;Argentina;;La Cesira;1/1/2022
+825;Cuba;;Bahía Honda;1/1/2022
+826;Philippines;;Halayhayin;1/1/2022
+827;Guinea;;Coyah;1/1/2022
+828;Philippines;;Puerto Galera;1/1/2022
+829;Argentina;;Pontevedra;1/1/2022
+830;China;;Qingshui;1/1/2022
+831;Ukraine;;Bykivka;1/1/2022
+832;Philippines;;Nailong;1/1/2022
+833;China;;Dongming;1/1/2022
+834;United States;Washington;Tacoma;1/1/2022
+835;Indonesia;;Gresik;1/1/2022
+836;Brazil;;Sertânia;1/1/2022
+837;Thailand;;Yaring;1/1/2022
+838;United States;South Carolina;Beaufort;1/1/2022
+839;Indonesia;;Dasuk;1/1/2022
+840;China;;Hutang;1/1/2022
+841;China;;Chengbei;1/1/2022
+842;Iran;;Dargaz;1/1/2022
+843;Greece;;Prámanta;1/1/2022
+844;Zambia;;Kasama;1/1/2022
+845;Poland;;Mętków;1/1/2022
+846;Guatemala;;Santa Bárbara;1/1/2022
+847;China;;Luxi;1/1/2022
+848;Ukraine;;Kapitanivka;1/1/2022
+849;Serbia;;Obrenovac;1/1/2022
+850;Greece;;Áno Kalentíni;1/1/2022
+851;Argentina;;Buta Ranquil;1/1/2022
+852;Malaysia;Selangor;Puchong;1/1/2022
+853;Uganda;;Mayuge;1/1/2022
+854;Mongolia;;Bayanbaraat;1/1/2022
+855;Indonesia;;Barapas;1/1/2022
+856;China;;Dongji;1/1/2022
+857;Canada;Ontario;Deep River;1/1/2022
+858;Tunisia;;Medenine;1/1/2022
+859;Croatia;;Smokvica;1/1/2022
+860;Poland;;Bełk;1/1/2022
+861;Poland;;Zubrzyca Dolna;1/1/2022
+862;Japan;;Gamagōri;1/1/2022
+863;Brazil;;Queimados;1/1/2022
+864;Indonesia;;Gombang;1/1/2022
+865;Argentina;;Los Frentones;1/1/2022
+866;Palestinian Territory;;Salfīt;1/1/2022
+867;Nepal;;Birātnagar;1/1/2022
+868;Guatemala;;Yupiltepeque;1/1/2022
+869;Cyprus;;Kato Pyrgos;1/1/2022
+870;China;;Tongli;1/1/2022
+871;Poland;;Mała Wieś;1/1/2022
+872;Mexico;Veracruz Llave;Buenos Aires;1/1/2022
+873;Indonesia;;Leran Wetan;1/1/2022
+874;Brazil;;Porto União;1/1/2022
+875;Portugal;Porto;Barrosas;1/1/2022
+876;Myanmar;;Monywa;1/1/2022
+877;Honduras;;Las Ánimas;1/1/2022
+878;France;Lorraine;Toul;1/1/2022
+879;Russia;;Kurgan;1/1/2022
+880;Philippines;;Balucawi;1/1/2022
+881;Canada;Ontario;Delaware;1/1/2022
+882;Tajikistan;;Vahdat;1/1/2022
+883;Portugal;Viseu;Póvoa;1/1/2022
+884;Philippines;;Andres Bonifacio;1/1/2022
+885;Uzbekistan;;Yangiyŭl;1/1/2022
+886;China;;Zhaoxian;1/1/2022
+887;Serbia;;Putinci;1/1/2022
+888;Hungary;Heves;Eger;1/1/2022
+889;China;;Junliangcheng;1/1/2022
+890;Cameroon;;Yaoundé;1/1/2022
+891;Colombia;;Rovira;1/1/2022
+892;Tunisia;;El Hamma;1/1/2022
+893;France;Lorraine;Épinal;1/1/2022
+894;France;Île-de-France;Saint-Ouen;1/1/2022
+895;Italy;Liguria;Laspezia;1/1/2022
+896;Australia;South Australia;Adelaide Mail Centre;1/1/2022
+897;Russia;;Mullovka;1/1/2022
+898;Nigeria;;Kankara;1/1/2022
+899;Guatemala;;Olopa;1/1/2022
+900;France;Provence-Alpes-Côte d'Azur;Aix-en-Provence;1/1/2022
+901;Italy;Campania;Napoli;1/1/2022
+902;China;;Sigou;1/1/2022
+903;China;;Chumen;1/1/2022
+904;Mauritania;;Kaédi;1/1/2022
+905;Madagascar;;Amboanjo;1/1/2022
+906;China;;Sishan;1/1/2022
+907;Philippines;;Balayang;1/1/2022
+908;Japan;;Maebashi-shi;1/1/2022
+909;China;;Baizhu;1/1/2022
+910;Russia;;Saraktash;1/1/2022
+911;Brazil;;Pitangueiras;1/1/2022
+912;Mongolia;;Buga;1/1/2022
+913;Colombia;;Pizarro;1/1/2022
+914;Sudan;;Rabak;1/1/2022
+915;Russia;;Serpukhov;1/1/2022
+916;Ukraine;;Svitlovods’k;1/1/2022
+917;China;;Baojia;1/1/2022
+918;Philippines;;Balut;1/1/2022
+919;Comoros;;Nioumamilima;1/1/2022
+920;Indonesia;;Daja;1/1/2022
+921;Indonesia;;Bengga;1/1/2022
+922;China;;Linshe;1/1/2022
+923;Portugal;Viana do Castelo;Chão;1/1/2022
+924;Tunisia;;Gabès;1/1/2022
+925;Indonesia;;Lolayan;1/1/2022
+926;Thailand;;Kaset Wisai;1/1/2022
+927;Greece;;Rodolívos;1/1/2022
+928;Poland;;Zebrzydowice;1/1/2022
+929;Russia;;Shalushka;1/1/2022
+930;Brazil;;Regente Feijó;1/1/2022
+931;China;;Wenxian Chengguanzhen;1/1/2022
+932;Indonesia;;Girihieum;1/1/2022
+933;Portugal;Évora;São Pedro Gafanhoeira;1/1/2022
+934;Nigeria;;Esuk Oron;1/1/2022
+935;Portugal;Leiria;Martingança-Gare;1/1/2022
+936;Indonesia;;Pante Raja;1/1/2022
+937;Mexico;Jalisco;La Loma;1/1/2022
+938;Sweden;Västra Götaland;Göteborg;1/1/2022
+939;France;Île-de-France;Paris 04;1/1/2022
+940;China;;Xiabeisi;1/1/2022
+941;China;;Golug;1/1/2022
+942;Russia;;Tikhoretsk;1/1/2022
+943;Vietnam;;Cao Thượng;1/1/2022
+944;Brazil;;São Paulo;1/1/2022
+945;South Africa;;Postmasburg;1/1/2022
+946;China;;Anzihao;1/1/2022
+947;China;;Zhangzhu;1/1/2022
+948;China;;Yuanqiao;1/1/2022
+949;China;;Guodu;1/1/2022
+950;Indonesia;;Sukadana;1/1/2022
+951;Sri Lanka;;Dambulla;1/1/2022
+952;Indonesia;;Lanta Timur;1/1/2022
+953;Pakistan;;Khadan Khāk;1/1/2022
+954;Palestinian Territory;;Bayt Liqyā;1/1/2022
+955;China;;Hanji;1/1/2022
+956;United States;Connecticut;New Haven;1/1/2022
+957;China;;Ziliang;1/1/2022
+958;Philippines;;Basiao;1/1/2022
+959;Portugal;Porto;Recarei;1/1/2022
+960;Indonesia;;Pekuwon;1/1/2022
+961;Russia;;Shelopugino;1/1/2022
+962;China;;Dengtang;1/1/2022
+963;Mexico;Oaxaca;Morelos;1/1/2022
+964;China;;Huangzhai;1/1/2022
+965;Poland;;Osieczany;1/1/2022
+966;Indonesia;;Kedungdoro;1/1/2022
+967;China;;Meijiahe;1/1/2022
+968;Poland;;Rusocice;1/1/2022
+969;China;;Xinzhou;1/1/2022
+970;Mozambique;;Ilha de Moçambique;1/1/2022
+971;Sweden;Uppsala;Österbybruk;1/1/2022
+972;Philippines;;Santol;1/1/2022
