@@ -1,4 +1,4 @@
-id_tipo_actividad;tipo_actividad;clasificacion      ;fecha_registro
+id_tipo_actividad;tipo_actividad;clasificacion;fecha_registro
 1; Running       ; Individual ; 2022-01-10 
 2; Cycling       ; Individual ; 2022-01-19 
 3; Swimming      ; Individual ; 2022-01-12
